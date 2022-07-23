@@ -1,4 +1,4 @@
-**👋 Hey, I'm Miles.** My profile is temporarily set to private. In lieu of my full profile, here are some summary stats. (Since my profile is private, commits will show as zero — the actual number is closer to three thousand.)
+**👋 Hey, I'm Miles.** My profile is temporarily set to private. In lieu of my full profile, here are some summary stats.
 
 ![Miles' profile stats](https://github-readme-stats.vercel.app/api?username=milesmcc&hide=contribs,prs,commits)
 
